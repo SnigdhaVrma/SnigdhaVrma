@@ -26,6 +26,10 @@ An aspiring data analyst with a passion for exploring the world of data and anal
 Feel free to connect with me and explore data-related projects I've worked on!**
 
 ## 🌐 Socials:
+## Connect with Me
+
+- LinkedIn: (https://www.instagram.com/snigdhaverma_04/)
+
 <p align="center" dir="auto">  
 <a href="[https://rb.gy/t1298](https://www.linkedin.com/in/snigdhaverma04/)" rel="nofollow"><img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width: 100%;"></a>
 <a href="mailto:snigdhaverma04@gmail.com"><img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/gmail-new.png" style="max-width: 100%;"></a>
@@ -40,3 +44,5 @@ Feel free to connect with me and explore data-related projects I've worked on!**
     <a href="https://www.microsoft.com/en-us/microsoft-365/word" rel="nofollow"> <img src="https://camo.githubusercontent.com/5ad75ab3aeea99e1bfbd691040717d3581cd1422447143c72642b273b2a79f31/68747470733a2f2f696d672e69636f6e73382e636f6d2f696f732d66696c6c65642f35302f3030303030302f6d732d776f72642e706e67" data-canonical-src="https://img.icons8.com/ios-filled/50/000000/ms-word.png" style="max-width: 100%;"></a>
     <a href="https://seaborn.pydata.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/53ae1cb6abbfacfb463f0a0d2fbdb58acad261200cb61f3d32abd7ac0edacded/68747470733a2f2f736561626f726e2e7079646174612e6f72672f5f696d616765732f6c6f676f2d6d61726b2d6c6967687462672e737667" alt="seaborn" width="40" height="40" data-canonical-src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="max-width: 100%;"> </a>
 </p>
+
+**Looking forward to connecting with fellow data enthusiasts and professionals!**
