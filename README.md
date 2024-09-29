@@ -12,17 +12,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkotnala&label=Profile%20views&color=0e75b6&style=flat" alt="amitkotnala" /> </p>
 
-- 🔭 I’m currently working on **Data Cleaning , Data manipulation and visualization**
+- 🔨 I’m currently working at **NSDC** on the **National Apprentices Promotion and Scheme (NAPS)** project.
+  - **ETL**: Extracted, transformed, and loaded data using **MongoDB, Informatica**, and **PostgreSQL**.
+  - Developed and maintained **monthly performance reports** and **interactive PowerBI dashboards** for tracking key metrics.
+  - Collaborated with cross-functional teams to ensure accurate **data reporting and analysis**.
+  - Improved **data quality** and streamlined reporting through optimized ETL processes.
+  
+- 🚀 I’m currently learning **Advanced Machine Learning** techniques.
+- 🤝 I’m looking to collaborate on **Data-Driven Business Solutions** and **Impact Analysis**.
+- 📊 Ask me about **Exploratory Data Analysis**, **Predictive Modeling**, and **Business Intelligence**.
+- 📧 Reach me at **snigdhaverma04@gmail.com**.
+- 🌟 I’m excited about working on innovative data projects and collaborating with other data professionals. Let’s connect and share insights!- 💬 Ask me about **Exploratory Data Analysis**
 
-- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Business Problems**
-
-- 💬 Ask me about **Exploratory Data Analysis**
-
-- 📫 How to reach me **snigdhaverma04@gmail.com**
-
-- 🧠 I'm excited about exploring new data projects and collaborating with mentors and fellow data enthusiasts.
 Feel free to connect with me and explore data-related projects I've worked on!**
 
 ## 🌐 Socials:
