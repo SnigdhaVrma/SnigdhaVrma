@@ -1,4 +1,4 @@
-An aspiring data analyst with a passion for exploring the world of data and analytics. My journey in the data field has just begun, and I'm eager to learn, grow, and contribute to this dynamic and exciting domain.
+🚀 Data Analyst | Problem Solver | Enthusiast of Data-Driven Insights
 
 ![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)
 
